@@ -2,7 +2,7 @@ package com.example.runningtracker.util
 
 import android.graphics.Color
 
-object Constants {
+object  Constants {
     const val RUNNING_DATABASE_NAME = "running_db"
     const val REQUEST_CODE_LOCATION_PERMISSION = 0
 
